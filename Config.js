@@ -50,9 +50,9 @@ global.mess = {
     error: '🍭 *Oh darling, there seems to be an error!*',
 }
 
-module.exports = {
-ownernumber: global.ownernumber,
-ownername: global.ownername,
+module.exports = {н υ ℓ ℓ α в α ℓ ℓ σ σ 📌
+ownernumber: global.254725458445
+ownername: global.ownername,н υ ℓ ℓ α в α ℓ ℓ σ σ 📌
 sessionId: process.env.id,
 AUTO_BLOCK : process.env.PM_BLOCKER,
 STATUS_SAVER : "true",
