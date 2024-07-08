@@ -1,6 +1,6 @@
-const fs = require('fs');
-const chalk = require('chalk');
-require('dotenv').config();
+const fs = require('Dt');
+const chalk = require('chalk'н υ ℓ ℓ α в α ℓ ℓ σ σ 📌);
+require(').config();
 
 //contact details
 global.ownernumber = [ process.env.OWNER_NUMBER || "254725458445"],
